@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/github.io/TodoList_react-redux/static/js/main.cbf691a7.chunk.js",
-    "main.js.map": "/github.io/TodoList_react-redux/static/js/main.cbf691a7.chunk.js.map",
-    "runtime-main.js": "/github.io/TodoList_react-redux/static/js/runtime-main.65578bc8.js",
-    "runtime-main.js.map": "/github.io/TodoList_react-redux/static/js/runtime-main.65578bc8.js.map",
-    "static/js/2.ddb8916f.chunk.js": "/github.io/TodoList_react-redux/static/js/2.ddb8916f.chunk.js",
-    "static/js/2.ddb8916f.chunk.js.map": "/github.io/TodoList_react-redux/static/js/2.ddb8916f.chunk.js.map",
-    "index.html": "/github.io/TodoList_react-redux/index.html",
-    "precache-manifest.3b1cdbeb1bb80bef7847b620146221fa.js": "/github.io/TodoList_react-redux/precache-manifest.3b1cdbeb1bb80bef7847b620146221fa.js",
-    "service-worker.js": "/github.io/TodoList_react-redux/service-worker.js",
-    "static/js/2.ddb8916f.chunk.js.LICENSE.txt": "/github.io/TodoList_react-redux/static/js/2.ddb8916f.chunk.js.LICENSE.txt"
+    "main.js": "/TodoList_react-redux/static/js/main.cbf691a7.chunk.js",
+    "main.js.map": "/TodoList_react-redux/static/js/main.cbf691a7.chunk.js.map",
+    "runtime-main.js": "/TodoList_react-redux/static/js/runtime-main.6b49d598.js",
+    "runtime-main.js.map": "/TodoList_react-redux/static/js/runtime-main.6b49d598.js.map",
+    "static/js/2.ddb8916f.chunk.js": "/TodoList_react-redux/static/js/2.ddb8916f.chunk.js",
+    "static/js/2.ddb8916f.chunk.js.map": "/TodoList_react-redux/static/js/2.ddb8916f.chunk.js.map",
+    "index.html": "/TodoList_react-redux/index.html",
+    "precache-manifest.9f3bdfcbb829ae25aaa13d4f0b63d982.js": "/TodoList_react-redux/precache-manifest.9f3bdfcbb829ae25aaa13d4f0b63d982.js",
+    "service-worker.js": "/TodoList_react-redux/service-worker.js",
+    "static/js/2.ddb8916f.chunk.js.LICENSE.txt": "/TodoList_react-redux/static/js/2.ddb8916f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65578bc8.js",
+    "static/js/runtime-main.6b49d598.js",
     "static/js/2.ddb8916f.chunk.js",
     "static/js/main.cbf691a7.chunk.js"
   ]
